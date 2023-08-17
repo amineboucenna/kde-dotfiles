@@ -10,7 +10,7 @@ yay -Sy konsave
 ```
 Or using
 ```bash
-git clone https://aur.archlinux.org/packages/konsave
+git clone https://aur.archlinux.org/konsave.git
 cd konsave
 makepkg -sic
 ```
